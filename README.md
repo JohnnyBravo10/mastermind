@@ -1,2 +1,2 @@
 # mastermind
-progetto sdm
+progetto sdm Emanuele,Giovanni, Simone

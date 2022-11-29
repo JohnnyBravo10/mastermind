@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d3665c2b-897c-4bdd-ae20-449b1c6cb3dd" name="Changes" comment="" />
+    <list default="true" id="a414421e-9174-4322-845f-3ce7240f4820" name="Changes" comment="prima prova commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,22 +17,63 @@
       <ProjectState />
     </projectState>
   </component>
-  <component name="ProjectId" id="2IE8AEub4OY5ytrqw9ym2rZBhQt" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2IE75YQF8QtBAHtIWueQSOYg6eM" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "WebServerToolWindowFactoryState": "false"
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d3665c2b-897c-4bdd-ae20-449b1c6cb3dd" name="Changes" comment="" />
-      <created>1669735239716</created>
+      <changelist id="a414421e-9174-4322-845f-3ce7240f4820" name="Changes" comment="" />
+      <created>1669734705934</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1669735239716</updated>
+      <updated>1669734705934</updated>
     </task>
+    <task id="LOCAL-00001" summary="prima prova commit">
+      <created>1669734855020</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669734855021</updated>
+    </task>
+    <task id="LOCAL-00002" summary="prima prova commit">
+      <created>1669734906986</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1669734906986</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="prima prova commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="prima prova commit" />
   </component>
 </project>
